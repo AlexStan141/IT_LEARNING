@@ -1,0 +1,40 @@
+Q: Care sunt cele 3 tehnologii ale unui site web?
+A: HTML pentru continut/structura, CSS pentru stilizare si JS pentru functionalitati.
+
+Q: Ce reprezinta HTML(Hypertext Markup Language)
+A: Limbaj de marcare pentru documentele web si set de reguli pentru adaugarea diferitelor componente(tabele, paragrafe, imagini etc.).
+
+Q: Ce reprezinta documentul HTML?
+A: Un fisier text cu extensia .html care este interpretat de browser in vederea obtinerii unei pagini web.
+
+Q: Ce este un tag?
+A: Element al limbajului de marcare hipertext, cel mai mic bloc de baza dintr-o pagina web. Sintaxa: <nume_tag>...</nume_tag> 
+
+Q: La ce sunt folosite comentariile
+A: 1. Explicatii in codul sursa
+   2. Comentarea unor sectiuni de cod etc.
+   Sintaxa: <!-- Comentariu -->
+
+Q: Ce sunt atributele?
+A: Atributele sunt setări suplimentare de tag-uri care pot fi folosite pentru a modifica proprietățile și comportamentul unui element. 
+   
+Q: De cate feluri pot fi tagurile
+A: 1. Taguri pereche - Acestea constau dintr-un tag de deschidere și de închidere care cuprinde un conținut
+   2. Taguri unice - Acestea constau doar dintr-un tag de deschidere, nu includ conținut textual și derivă conținut sau comportament din atribute.
+
+Q: La ce sunt folosite tagurile unice?
+A: 1. Modificarea proprietatilor unui document
+   2. Conexiuni de fisiere etc. 
+
+Q: Ce reprezinta specificatia HTML?
+A: Documentul principal care descrie standardele, caracteristicile și dezvoltarea ulterioară a limbajului HTML.
+
+Q: Ce reprezinta elementul HTML?
+A: Un termen care descrie o entitate semantică în standardul HTML(tabel, paragraf, imagine etc.) si este reprezentat de un tag(constructie sintactica
+   a limbajului HTML.)
+
+Q: Care este algoritmul de imbricare al tagurilor?
+A: 1. Accesarea specificatiei si gasirea elementului necesar?
+   2. Verificarea modelului de continut al elementului in care il introducem
+   3. Verificarea categoriilor elementului in care il imbricam
+   4. Pe baza 2 si 3 verificam daca se poate realiza imbricarea
